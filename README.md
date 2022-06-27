@@ -13,7 +13,7 @@ To perform analyst of math and reading test score accross the school district ex
 ### 2. How is the school summary affected?    
     The only part of the school summary that is changed from the original run to the scrubbed version with the removal of the Thomas High School 9th Grade data is the average score and the % of passing students with each category being significatly lower.
    ![image](Resources/school_summary_df.png)
-   ![image](Resources/school_summary_df.png)    
+   ![image](Resources/school_summary_df_challenge.png)    
     
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     When we replace the 9th grade data with NaN we have to recalculate the average scores and the % of the passing students to only use 10th-12th grade.  Once we calculate the updated average math and reading scores and teh % of those passing math, reading and both using the modifed student count the data is slightly higher then the using the orginal data and is on the higher end of the scores.
@@ -46,3 +46,4 @@ To perform analyst of math and reading test score accross the school district ex
 
 
 ## Summary
+    
