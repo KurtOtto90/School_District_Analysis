@@ -46,4 +46,4 @@ To perform analyst of math and reading test score accross the school district ex
 
 
 ## Summary
-    
+    If we just look at the data once the 9th grade data from Thomas High School is removed it causes Thomas High School to become an outlier.  Comparing the average math score of the original data to that of when we remove the Thomas High School 9th grade data we see that the average score was slightly higher in the original data, which tells us that more 9th graders from Thomas High School scored above average in math.  Comparing the average reading score of the original data to that of when we remove the Thomas High School 9th grade data we see that the average score was slightly lower in the original data, which tells us that more 9th graders from Thomas High School scored below average in reading.  
